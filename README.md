@@ -8,7 +8,8 @@ This project demonstrates how to connect to a WebSocket and subscribe to order b
 Prerequisites
 Before you begin, ensure you have the following installed:
 
-C++ Compiler: Either GCC or Clang should be installed on your system./
+C++ Compiler: Either GCC or Clang should be installed on your system.
+
 CMake: Required for compiling the project.
 WebSocket++: A C++ WebSocket library used for connecting and handling WebSocket messages.
 nlohmann/json: A popular JSON library for C++.
